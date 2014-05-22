@@ -1,0 +1,17 @@
+package CalendarService;
+
+public enum Enumeration {
+
+	CREATE,
+	DELETE,
+	MODIFY,
+	NOTIFY,
+	ACK,
+	CHECKUPDATE,
+	REUPDTAE,
+	GETFILE,
+	GETRESPOND,
+	ASKFOROK,
+	RESPONDOK,
+	//RDZNOTIFY,
+}
