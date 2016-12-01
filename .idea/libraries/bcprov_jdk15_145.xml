@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="bcprov-jdk15-145">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bcprov-jdk15-145.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cglib-nodep-2.1_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/derby-10.5.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/h2-1.2.127.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-core-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-library-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmock-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmock-junit3-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmock-junit4-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmock-legacy-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-3.1.5.GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/cglib-2.1_3-src.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-core-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-library-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmock-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmock-junit3-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmock-junit4-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmock-legacy-2.5.1.jar!/" />
+    </SOURCES>
+  </library>
+</component>
