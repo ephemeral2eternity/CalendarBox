@@ -8,6 +8,9 @@
     - Download lib-dependencies-2.7.zip from https://sourceforge.net/projects/practicaljxta/files/
 
 2. Detailed Document:
+  * https://github.com/ephemeral2eternity/CalendarBox/blob/master/CalendarBox-Document.pdf
+  
+
    
 
 
